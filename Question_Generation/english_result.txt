@@ -1,0 +1,38 @@
+[0mLoading 'model/840B.300d.600rnn_epoch15_25.05.t7'...[0m	
+
+SENT 1: Once upon a time , there was a pig mother who gave birth to three piglets . The pig brother was very sleepy , very lazy , and was dozing off all day long .
+PRED 1: how many piglets pig off upon ?
+PRED SCORE: -7.5143     
+SENT 2: Pig brother is very fond of eating , he is also very lazy , pig younger brother is a hardworking good child often work hard .
+PRED 2: what is the occupation of pig brother ?
+PRED SCORE: -7.7095     
+SENT 4: Big brother pouted his mouth and lazily walked out of the house , hehe ! Good trouble ! I will build a straw house , which is the easiest .
+PRED 4: who is the fastest brother of the house ?
+PRED SCORE: -6.6867     
+SENT 6: The straw house will be blown down by the wind , then I will cover it with wood . The wooden house is heavier and not afraid of the wind .
+PRED 6: what type of house will be shot down by the wind ?
+PRED SCORE: -6.6837     
+SENT 11: The big wolf slammed hard , and the rice house was blown down . The pig brother was scared to run to the pig brother's house .
+PRED 11: who was scared to run down ?
+PRED SCORE: -5.9594     
+SENT 12: The pig brother flustered and ran into the log house of the pig brother , and quickly closed the door , fearing that the wild wolf would come in , the big wolf howled .
+PRED 12: who was brother pig brother ?
+PRED SCORE: -4.8886     
+SENT 13: The wooden house can't stop me , I must eat it all ! Run now ! Big brother and pig brother rushed to the pig's younger brother's home .
+PRED 13: what is the name of the wooden wooden house ?
+PRED SCORE: -9.6830     
+SENT 14: At this time , the pig brother is buying an apple before the vendor , and accepts you a fifty yuan and two ten yuan . Thank you ! The big wolf has been chasing them behind .
+PRED 14: who is buying an apple before the vendor ?
+PRED SCORE: -8.2602     
+SENT 15: When the pig brother saw the big wolf , he was chasing the pig big brother and the pig brother , and he took the apple he had just bought and threw it at the big wolf , the hateful wolf .
+PRED 15: who was the cow brother ?
+PRED SCORE: -5.3750     
+SENT 16: Hey ! The pig brother quickly rushed to the house with his brothers .
+PRED 16: who was the brother of brothers ?
+PRED SCORE: -5.5895     
+SENT 17: Soon , the big wolf chased it , he said angrily , hehe ! I dare to use the apple to throw me , see that I knocked down your house , you will be eaten by me , and the big wolf said and started to hit the wall .
+PRED 17: who was the big wolf ?
+PRED SCORE: -7.2701     
+SENT 20: From then on , the three brothers lived together , went to bed together every day , worked together , lived happily ever after , and the wolf never appeared again !
+PRED 20: when did the three brothers live together ?
+PRED SCORE: -4.1556     [0mPRED AVG SCORE: -0.9980, PRED PPL: 2.7129[0m	
